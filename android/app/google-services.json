@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "855947334206",
+    "project_id": "appointment-firebase-94dad",
+    "storage_bucket": "appointment-firebase-94dad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855947334206:android:f61d3407f2df135fdcf76f",
+        "android_client_info": {
+          "package_name": "com.example.appoint_ment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt0uzTn-BSV3cNRiOrWhQ231TgBTVxL_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
